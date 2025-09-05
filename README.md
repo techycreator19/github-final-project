@@ -12,7 +12,11 @@ It was created as part of our micro-finance startup’s initiative to transition
 - Support our mission of empowering low-income individuals with financial tools and knowledge.  
 
 ---
-
-## 🧮 Formula Used
-The script applies the formula:
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
 
